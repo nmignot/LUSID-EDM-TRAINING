@@ -8,3 +8,9 @@ __pycache__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Local end-to-end run scaffolding (not part of the training pack)
+run_pack.py
+convert_auth.py
+show_outputs.py
+executed/
