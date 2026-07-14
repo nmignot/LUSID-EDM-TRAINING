@@ -1,0 +1,43 @@
+FileCheckId,FileMask,Vendor,FieldName,CheckType,AllowedValue,MinValue,MaxValue,AccuracyThreshold,DataType,IsRequired,RuleDescription,Status
+FC-001,StateStreet_ManagementFees_*.csv,StateStreet,Fee_Ccy,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-002,StateStreet_ManagementFees_*.csv,StateStreet,Fee_Amount,range,,0,100000000,,number,true,Fee amount must be positive and reasonable,active
+FC-003,StateStreet_ManagementFees_*.csv,StateStreet,Fee_BasisPts,range,,0,500,,number,true,Fee basis points between 0-500,active
+FC-004,StateStreet_ManagementFees_*.csv,StateStreet,Ownership_Pct,range,,0,100,,number,true,Ownership percentage must be 0-100,active
+FC-005,StateStreet_ManagementFees_*.csv,StateStreet,Investor_Type,allowed_values,"Corporate,Pension,Endowment,Foundation,SovereignWealth",,,,string,true,Valid investor classification,active
+FC-006,StateStreet_ManagementFees_*.csv,StateStreet,TxnId,accuracy,,,,0.01,string,true,Transaction ID must be present,active
+FC-007,AlterDomus_PrivateCredit_*.csv,AlterDomus,Ccy,allowed_values,"USD,EUR,GBP,CHF,JPY",,,,string,true,Currency must be valid ISO code,active
+FC-008,AlterDomus_PrivateCredit_*.csv,AlterDomus,Loan_Amt,range,,100000,500000000,,number,true,Loan amount within valid range,active
+FC-009,AlterDomus_PrivateCredit_*.csv,AlterDomus,Coupon_Rate,range,,0,0.25,,number,true,Coupon rate between 0-25%,active
+FC-010,AlterDomus_PrivateCredit_*.csv,AlterDomus,LTV,range,,0,1.0,,number,true,Loan-to-value ratio between 0-100%,active
+FC-011,AlterDomus_PrivateCredit_*.csv,AlterDomus,Ebitda,range,,0,1000000000,,number,true,EBITDA must be positive,active
+FC-012,AlterDomus_PrivateCredit_*.csv,AlterDomus,Maturity_Dt,accuracy,,,,365,date,true,Maturity date within 1 year accuracy,active
+FC-013,Aztec_PerformanceFees_*.csv,Aztec,Fee_Currency,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-014,Aztec_PerformanceFees_*.csv,Aztec,Fee_Amt,range,,0,50000000,,number,true,Performance fee within valid range,active
+FC-015,Aztec_PerformanceFees_*.csv,Aztec,Hurdle_Rt,range,,0,20,,number,true,Hurdle rate between 0-20%,active
+FC-016,Aztec_PerformanceFees_*.csv,Aztec,Perf_Fee_Rate,range,,0,30,,number,true,Performance fee rate between 0-30%,active
+FC-017,Aztec_PerformanceFees_*.csv,Aztec,Gross_Rtn,accuracy,,,,0.5,number,true,Gross return accuracy within 0.5%,active
+FC-018,Aztec_PerformanceFees_*.csv,Aztec,Crystal_Freq,allowed_values,"Annual,Semi-Annual,Quarterly,Monthly",,,,string,true,Valid crystallization frequency,active
+FC-019,Citco_CarriedInterest_*.csv,Citco,Ccy,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-020,Citco_CarriedInterest_*.csv,Citco,Carry_Rate,range,,10,30,,number,true,Carry rate typically 10-30%,active
+FC-021,Citco_CarriedInterest_*.csv,Citco,Hurdle_Rate,range,,4,12,,number,true,Hurdle rate between 4-12%,active
+FC-022,Citco_CarriedInterest_*.csv,Citco,CatchUp_Pct,range,,0,100,,number,true,Catch-up percentage 0-100%,active
+FC-023,Citco_CarriedInterest_*.csv,Citco,Pref_Return_Met,allowed_values,"true,false",,,,string,true,Boolean value required,active
+FC-024,Citco_CarriedInterest_*.csv,Citco,Clawback_Flag,allowed_values,"true,false",,,,string,true,Boolean value required,active
+FC-025,eFront_Distributions_*.csv,eFront,Ccy,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-026,eFront_Distributions_*.csv,eFront,Amount,range,,0,100000000,,number,true,Distribution amount must be positive,active
+FC-027,eFront_Distributions_*.csv,eFront,Dist_Type,allowed_values,"Quarterly,Monthly,Annual,Special",,,,string,true,Valid distribution type,active
+FC-028,eFront_Distributions_*.csv,eFront,Ownership_Pct,range,,0,100,,number,true,Ownership percentage must be 0-100,active
+FC-029,eFront_Distributions_*.csv,eFront,Waterfall_Tier,allowed_values,"Tier1,Tier2,Tier3,Tier4",,,,string,true,Valid waterfall tier,active
+FC-030,eFront_Distributions_*.csv,eFront,Withholding_Tax,range,,0,1000000,,number,false,Withholding tax amount,active
+FC-031,iLevel_CapitalCalls_*.csv,iLevel,Ccy,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-032,iLevel_CapitalCalls_*.csv,iLevel,Call_Amt,range,,0,100000000,,number,true,Capital call amount must be positive,active
+FC-033,iLevel_CapitalCalls_*.csv,iLevel,Call_Purpose,allowed_values,"New Investment,Follow-on Investment,Management Fees,Operating Expenses",,,,string,true,Valid call purpose,active
+FC-034,iLevel_CapitalCalls_*.csv,iLevel,Ownership_Pct,range,,0,100,,number,true,Ownership percentage must be 0-100,active
+FC-035,iLevel_CapitalCalls_*.csv,iLevel,Call_Pct,range,,0,100,,number,true,Call percentage must be 0-100,active
+FC-036,iLevel_CapitalCalls_*.csv,iLevel,Investor_Class,allowed_values,"Pension,Endowment,Foundation,Insurance,HNWI,Family Office",,,,string,true,Valid investor classification,active
+FC-037,Prequin_RealEsateFinance_*.csv,Prequin,Dom_Ccy,allowed_values,"USD,EUR,GBP",,,,string,true,Currency must be valid ISO code,active
+FC-038,Prequin_RealEsateFinance_*.csv,Prequin,Coupon_Rate,range,,0,0.15,,number,true,Coupon rate between 0-15%,active
+FC-039,Prequin_RealEsateFinance_*.csv,Prequin,Avail_Liquidity,range,,0,100000000,,number,true,Available liquidity must be positive,active
+FC-040,Prequin_RealEsateFinance_*.csv,Prequin,Lease_Agreement,allowed_values,"NET LEASE,FRI LEASE,GROSS LEASE,TURNOVER RENT",,,,string,true,Valid lease agreement type,active
+FC-041,Prequin_RealEsateFinance_*.csv,Prequin,Lease_Pmt,range,,0,50000000,,number,true,Lease payment must be positive,active
+FC-042,Prequin_RealEsateFinance_*.csv,Prequin,Asset_Class,allowed_values,"Lease Backed Project Finance,Infrastructure Debt,Real Estate Debt",,,,string,true,Valid asset class for real estate finance,active

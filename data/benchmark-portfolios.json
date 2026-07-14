@@ -1,0 +1,22 @@
+{
+    "Benchmark_Global_Equity_Returns": {
+        "display_name": "Global Equity Fund",
+        "base_currency": "USD",
+        "sub_holding_keys": [],
+        "description": "Global equity investment portfolio focusing on developed markets",
+        "corporate_action_source": "Bloomberg",
+        "properties": {
+            "RiskProfile": "3"
+        }
+    },
+    "Benchmark_Global_FixedIncome_Returns": {
+        "display_name": "Global Fixed Income",
+        "base_currency": "USD",
+        "sub_holding_keys": [],
+        "description": "Global fixed income investment portfolio focusing on government and corporate bonds",
+        "corporate_action_source": "Bloomberg",
+        "properties": {
+            "RiskProfile": "3"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+ClientInternal,CompanyName,Currency,Sector,Exchange,ListingCountry,CountryIso,CreditRating,EsgEnvironmentRating,EsgSocialRating,EsgGovernanceRating,DataQualityStatus,DataOwner,DataGovernanceCode
+DQ_TEST_001,Acme Corp,USD,Technology,NYSE,US,US,AAA,75,80,70,New,DataOps,GOV001
+DQ_TEST_002,BadCurrency Inc,XYZ,Financials,LSE,GB,GB,BBB,60,55,65,New,DataOps,GOV002
+DQ_TEST_003,Missing Rating Ltd,GBP,Healthcare,LSE,GB,GB,,85,90,80,New,DataOps,GOV003
+DQ_TEST_004,Negative ESG Corp,EUR,Energy,XETRA,DE,DE,BB,-5,110,50,New,DataOps,GOV004
+DQ_TEST_005,Good Company SA,CHF,Industrials,SIX,CH,CH,A+,70,75,80,Completed,DataOps,GOV005

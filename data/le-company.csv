@@ -1,0 +1,35 @@
+LegalEntityId,LegalEntityName,LegalEntityType,Country,DateOfIncorporation,ParentCompany,RegistrationNumber,Domicile,Industry,RegulatoryStatus,TaxResidency
+CORP001,Apple Inc,Corporation,USA,1976-04-01,Apple Inc,USA-CORP-001,USA,Technology,Compliant,USA
+CORP002,Apple UK Limited,Subsidiary,UK,1980-06-15,Apple Inc,UK-CORP-001,UK,Technology,Compliant,UK
+CORP003,Apple Asia Pacific Pte Ltd,Subsidiary,Singapore,1981-09-01,Apple Inc,SG-CORP-001,Singapore,Technology,Compliant,Singapore
+CORP004,Boeing Company,Corporation,USA,1916-07-15,Boeing Company,USA-CORP-002,USA,Aerospace & Defense,Compliant,USA
+CORP005,Boeing UK Limited,Subsidiary,UK,1936-03-20,Boeing Company,UK-CORP-002,UK,Aerospace & Defense,Compliant,UK
+CORP006,Boeing International Corporation,Subsidiary,USA,1990-11-10,Boeing Company,USA-CORP-003,USA,Aerospace & Defense,Compliant,USA
+CORP007,JPMorgan Chase & Co,Corporation,USA,1799-09-01,JPMorgan Chase & Co,USA-CORP-004,USA,Financial Services,Compliant,USA
+CORP008,J.P. Morgan Securities plc,Subsidiary,UK,1985-05-12,JPMorgan Chase & Co,UK-CORP-003,UK,Financial Services,Compliant,UK
+CORP009,JPMorgan Chase Bank Shanghai,Subsidiary,China,2007-08-15,JPMorgan Chase & Co,CN-CORP-001,China,Financial Services,Compliant,China
+CORP010,Microsoft Corporation,Corporation,USA,1975-04-04,Microsoft Corporation,USA-CORP-005,USA,Technology,Compliant,USA
+CORP011,Microsoft Limited (UK),Subsidiary,UK,1982-11-15,Microsoft Corporation,UK-CORP-004,UK,Technology,Compliant,UK
+CORP012,Microsoft Ireland Operations Limited,Subsidiary,Ireland,1985-03-01,Microsoft Corporation,IE-CORP-001,Ireland,Technology,Compliant,Ireland
+CORP013,Unilever PLC,Corporation,UK,1929-09-02,Unilever PLC,UK-CORP-005,UK,Consumer Goods,Compliant,UK
+CORP014,Unilever United States Inc,Subsidiary,USA,1930-06-20,Unilever PLC,USA-CORP-006,USA,Consumer Goods,Compliant,USA
+CORP015,Unilever Asia Private Limited,Subsidiary,Singapore,1950-07-10,Unilever PLC,SG-CORP-002,Singapore,Consumer Goods,Compliant,Singapore
+CORP016,Toyota Motor Corporation,Corporation,Japan,1937-08-28,Toyota Motor Corporation,JP-CORP-001,Japan,Automotive,Compliant,Japan
+CORP017,Toyota Motor Europe SA/NV,Subsidiary,Belgium,1963-05-15,Toyota Motor Corporation,BE-CORP-001,Belgium,Automotive,Compliant,Belgium
+CORP018,Toyota Motor Manufacturing UK Ltd,Subsidiary,UK,1989-12-03,Toyota Motor Corporation,UK-CORP-006,UK,Automotive,Compliant,UK
+CORP019,Nestle S.A.,Corporation,Switzerland,1866-01-01,Nestle S.A.,CH-CORP-001,Switzerland,Food & Beverage,Compliant,Switzerland
+CORP020,Nestle UK Limited,Subsidiary,UK,1868-09-20,Nestle S.A.,UK-CORP-007,UK,Food & Beverage,Compliant,UK
+CORP021,Nestle USA Inc,Subsidiary,USA,1900-03-15,Nestle S.A.,USA-CORP-007,USA,Food & Beverage,Compliant,USA
+CORP022,HSBC Holdings plc,Corporation,UK,1865-03-03,HSBC Holdings plc,UK-CORP-008,UK,Financial Services,Compliant,UK
+CORP023,HSBC Bank USA N.A.,Subsidiary,USA,1850-08-01,HSBC Holdings plc,USA-CORP-008,USA,Financial Services,Compliant,USA
+CORP024,The Hongkong and Shanghai Banking Corporation Limited,Subsidiary,Hong Kong,1865-03-03,HSBC Holdings plc,HK-CORP-001,Hong Kong,Financial Services,Compliant,Hong Kong
+CORP025,Siemens AG,Corporation,Germany,1847-10-12,Siemens AG,DE-CORP-001,Germany,Industrial Conglomerate,Compliant,Germany
+CORP026,Siemens plc,Subsidiary,UK,1863-06-20,Siemens AG,UK-CORP-009,UK,Industrial Conglomerate,Compliant,UK
+CORP027,Siemens Corporation,Subsidiary,USA,1954-02-10,Siemens AG,USA-CORP-009,USA,Industrial Conglomerate,Compliant,USA
+CORP028,Volkswagen AG,Corporation,Germany,1937-05-28,Volkswagen AG,DE-CORP-002,Germany,Automotive,Compliant,Germany
+CORP029,Volkswagen Group UK Limited,Subsidiary,UK,1953-07-15,Volkswagen AG,UK-CORP-010,UK,Automotive,Compliant,UK
+CORP030,Volkswagen Group of America Inc,Subsidiary,USA,1955-04-20,Volkswagen AG,USA-CORP-010,USA,Automotive,Compliant,USA
+CORP031,Chicago Public Employees' Retirement System,Corporation,USA,1922-01-01,Chicago Public Employees' Retirement System,USA-CORP-011,USA,Pension Fund,Compliant,USA
+CORP032,Greater Manchester Pension Fund,Corporation,UK,1974-04-01,Greater Manchester Pension Fund,UK-CORP-011,UK,Pension Fund,Compliant,UK
+CORP033,New England Teachers' Retirement System,Corporation,USA,1914-01-01,New England Teachers' Retirement System,USA-CORP-012,USA,Pension Fund,Compliant,USA
+CORP034,West Midlands Pension Fund,Corporation,UK,1974-04-01,West Midlands Pension Fund,UK-CORP-012,UK,Pension Fund,Compliant,UK

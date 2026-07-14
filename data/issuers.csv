@@ -1,0 +1,227 @@
+IssuerCode,IssuerName,LEI,immediateParent,ultimateParent,Address,IssuerCountry
+HSBCH419,HSBC Holdings plc,MLU0ZO3ML4LN2LL2TL39,HSBCH419,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH420,HSBC Bank plc,GGDZP1UYGU9STUHRDP48,HSBCH419,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH421,HSBC France,2FPZ6GP6YHEU5U7I5Y36,HSBCH419,HSBCH419,"103 Avenue des Champs-Ely, 75008 Paris, France",France
+HSBCH422,HSBC Global Asset Management (UK) Ltd,213800WXIC7DIHUTZT21,HSBCH420,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH423,HSBC Securities Services (UK) Ltd,21380039W1YWHF6PCU28,HSBCH420,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH424,HSBC Institutional Trust Services (UK) Ltd,213800A2L9H3JEWNXD81,HSBCH423,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH425,HSBC Fund Services (UK) Ltd,213800BTE3V6GPM3FQ29,HSBCH423,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH426,HSBC Private Bank (UK) Ltd,213800QTIS7GKMZICK57,HSBCH423,HSBCH419,"8 Canada Square, London, E14 5HQ, United Kingdom",United Kingdom
+HSBCH427,"HSBC Bank USA, National Association",PNB7BFGJY2YLT39UYL18,HSBCH419,HSBCH419,"452 Fifth Avenue, New York, NY 10018, USA",United States
+HSBCH428,HSBC Bank Canada,3IOLKF6ZY1D6JH2KKC92,HSBCH419,HSBCH419,"885 West Georgia Street, Vancouver, BC V6C 3E9, Canada",Canada
+HSBCH429,HSBC Bank Middle East Limited,F0HUI1NY1AZMJMD8LP67,HSBCH419,HSBCH419,"HSBC Tower, Downtown Dubai, United Arab Emirates",United Arab Emirates
+JPMRG671,JPMorgan Chase & Co.,8I5DZWZKVSZI1NUHU748,JPMRG671,JPMRG671,"383 Madison Avenue, New York, NY 10179, USA",United States
+JPM00002,"JPMorgan Chase Bank, National Association",7H6GLXDRUGQFU57RNE97,JPMRG671,JPMRG671,"1111 Polaris Parkway, Columbus, OH 43240, USA",United States
+JPM00003,J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMRG671,JPMRG671,"25 Bank Street, Canary Wharf, London, E14 5JP, United Kingdom",United Kingdom
+JPM00004,J.P. Morgan Europe Limited,549300ZHEHX8M31RP142,JPMRG671,JPMRG671,"25 Bank Street, Canary Wharf, London, E14 5JP, United Kingdom",United Kingdom
+JPM00005,J.P. Morgan SE,549300ZK53CNGEEI6A29,JPMRG671,JPMRG671,"Taunustor 1 (TaunusTurm), 60310 Frankfurt am Main, Germany",Germany
+JPM00006,J.P. Morgan Securities LLC,ZBUT11V806EZRVTWT807,JPMRG671,JPMRG671,"383 Madison Avenue, New York, NY 10179, USA",United States
+JPM00007,"J.P. Morgan Securities Japan Co., Ltd.",353800KWCQO9UTN0VI57,JPMRG671,JPMRG671,"Tokyo Building, 7-3 Marunouchi 2-chome, Chiyoda-ku, Tokyo 100-6432, Japan",Japan
+JPM00008,J.P. Morgan (Suisse) SA,549300QMF0MRNL0QME79,JPMRG671,JPMRG671,"Rue de la Confederation 8, 1204 Geneva, Switzerland",Switzerland
+JPM00009,J.P. Morgan Bank Luxembourg S.A.,549300GT0XFTFHGOIS17,JPMRG671,JPMRG671,"European Bank & Business Centre, 6 route de Traves, L-2633 Senningerberg, Luxembourg",Luxembourg
+JPM00010,J.P. Morgan India Private Limited,335800F7F8Y3AP1M1W78,JPMRG671,JPMRG671,"J.P. Morgan Tower, Off CST Road, Kalina, Santacruz East, Mumbai 400098, India",India
+JPM00011,J.P. Morgan Prime Inc.,335800F7F8Y3AP1M1W79,JPM00006,JPMRG671,"383 Madison Avenue, New York, NY 10179, USA",United States
+JPM00012,J.P. Morgan Clearing Corp.,335800F7F8Y3AP1M1W80,JPM00006,JPMRG671,"383 Madison Avenue, New York, NY 10179, USA",United States
+JPM00013,J.P. Morgan Futures Inc.,335800F7F8Y3AP1M1W81,JPM00006,JPMRG671,"383 Madison Avenue, New York, NY 10179, USA",United States
+AAPL0001,Apple Inc.,HWUPKR0MPOU8FGXBT394,AAPL0001,AAPL0001,"One Apple Park Way, Cupertino, CA 95014, USA",United States
+AAPL0002,Apple Sales International,635400ZJNQIUFDEI0U77,AAPL0001,AAPL0001,"Hollyhill Industrial Estate, Hollyhill, Cork, Ireland",Ireland
+AAPL0003,Apple Operations International,635400O0EEK45K6NCL76,AAPL0001,AAPL0001,"Hollyhill Industrial Estate, Hollyhill, Cork, Ireland",Ireland
+AAPL0004,Apple Distribution International Ltd.,635400VEWEP6IL5FNE20,AAPL0001,AAPL0001,"Hollyhill Industrial Estate, Hollyhill, Cork, Ireland",Ireland
+MSFT0001,Microsoft Corporation,INR2EJN1ERAN0W5ZP974,MSFT0001,MSFT0001,"One Microsoft Way, Redmond, WA 98052, USA",United States
+MSFT0002,Microsoft Ireland Operations Limited,549300KTBIIPO0BD9Z96,MSFT0001,MSFT0001,"One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland",Ireland
+MSFT0003,Microsoft Operations Puerto Rico,549300YOG6N71K8CCJ86,MSFT0001,MSFT0001,"355 FD Roosevelt Avenue, Suite 501, San Juan, PR 00918, USA",United States
+MSFT0004,Microsoft Technology Licensing LLC,549300594XBML9NEOR81,MSFT0001,MSFT0001,"One Microsoft Way, Redmond, WA 98052, USA",United States
+AMZN0001,Amazon.com Inc.,ZXTILKJKG63JELOEG630,AMZN0001,AMZN0001,"410 Terry Avenue North, Seattle, WA 98109, USA",United States
+AMZN0002,Amazon Web Services Inc.,549300U306HDH90ITU83,AMZN0001,AMZN0001,"410 Terry Avenue North, Seattle, WA 98109, USA",United States
+AMZN0003,Amazon EU S.a.r.l.,549300CUWPC59R14BH53,AMZN0001,AMZN0001,"38 avenue John F. Kennedy, L-1855 Luxembourg",Luxembourg
+AMZN0004,Amazon Services LLC,549300JI9OB4890NLI42,AMZN0001,AMZN0001,"410 Terry Avenue North, Seattle, WA 98109, USA",United States
+GOOG0001,Alphabet Inc.,5493006MHB84DD0ZWV18,GOOG0001,GOOG0001,"1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",United States
+GOOG0002,Google LLC,5493001R8FJ6I76MUY55,GOOG0001,GOOG0001,"1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",United States
+GOOG0003,Google Ireland Limited,549300VGEJKB7SVUZR43,GOOG0001,GOOG0001,"Gordon House, Barrow Street, Dublin 4, Ireland",Ireland
+GOOG0004,Google Cloud Platform LLC,549300Q6SXQ8T9PH7Z31,GOOG0002,GOOG0001,"1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",United States
+TSLA0001,Tesla Inc.,54930043XZJSUIK1BS51,TSLA0001,TSLA0001,"1 Tesla Road, Austin, TX 78725, USA",United States
+TSLA0002,Tesla Motors Netherlands B.V.,724500Y6DUVHQD6OXN28,TSLA0001,TSLA0001,"Burgemeester Stramanweg 122, 1101 EN Amsterdam, Netherlands",Netherlands
+TSLA0003,Tesla Energy Operations Inc.,549300G6YY7K4PQPLR93,TSLA0001,TSLA0001,"3500 Deer Creek Road, Palo Alto, CA 94304, USA",United States
+JNJ00001,Johnson & Johnson,549300G0CFPGEF6X7B67,JNJ00001,JNJ00001,"One Johnson & Johnson Plaza, New Brunswick, NJ 08933, USA",United States
+JNJ00002,Janssen Pharmaceutica NV,549300U38TLQKF1TMY49,JNJ00001,JNJ00001,"Turnhoutseweg 30, B-2340 Beerse, Belgium",Belgium
+JNJ00003,Ethicon LLC,5493000F7A6BCMXX4G53,JNJ00001,JNJ00001,"1000 Route 202, Raritan, NJ 08869, USA",United States
+JNJ00004,DePuy Synthes Inc.,549300A21W2P3WNL8W42,JNJ00001,JNJ00001,"700 Orthopaedic Drive, Warsaw, IN 46582, USA",United States
+NASPRS01,Naspers Ltd.,213800YHAMINFLU37R18,NASPRS01,NASPRS01,"40 Heerengracht, Cape Town, 8001, South Africa",South Africa
+NASPRS02,Prosus N.V.,635400F8B4S6OQH1YM74,NASPRS01,NASPRS01,"Gustav Mahlerplein 5, 1082 MS Amsterdam, Netherlands",Netherlands
+NASPRS03,Tencent Holdings Ltd.,254900CEGGGU47H0LU31,NASPRS02,NASPRS01,"Tencent Building, Kejizhongyi Avenue, Shenzhen, China",China
+ANGLO01,Anglo American plc,549300S9XF92D1X8ME43,ANGLO01,ANGLO01,"17 Charterhouse Street, London, EC1N 6RA, United Kingdom",United Kingdom
+ANGLO02,De Beers Group,213800GB3L7SYC2XZR58,ANGLO01,ANGLO01,"17 Charterhouse Street, London, EC1N 6RA, United Kingdom",United Kingdom
+ANGLO03,Anglo American Platinum Limited,3789008641ABEDE90E16,ANGLO01,ANGLO01,"55 Marshall Street, Johannesburg, 2001, South Africa",South Africa
+FIRST01,FirstRand Ltd.,549300CCNCZHL896BH77,FIRST01,FIRST01,"4 Merchant Place, corner Fredman Drive and Rivonia Road, Sandton, 2196, South Africa",South Africa
+FIRST02,First National Bank,549300NK4PYBPF1J8R67,FIRST01,FIRST01,"1st Floor, 3 First Place, Bank City, Johannesburg, 2001, South Africa",South Africa
+FIRST03,Rand Merchant Bank,549300XU7FC0UGXNX746,FIRST01,FIRST01,"1 Merchant Place, corner Fredman Drive and Rivonia Road, Sandton, 2196, South Africa",South Africa
+MTN00001,MTN Group Ltd.,378900B973BDCA234Y94,MTN00001,MTN00001,"216 14th Avenue, Roodepoort, 1709, South Africa",South Africa
+MTN00002,MTN Nigeria Communications Limited,2138009KXIYMQC2JKY61,MTN00001,MTN00001,"Churchgate Tower, 30 Afribank Street, Victoria Island, Lagos, Nigeria",Nigeria
+MTN00003,MTN Ghana,213800UKH6KBYH8WDY83,MTN00001,MTN00001,"Independence Avenue, Accra, Ghana",Ghana
+STDBANK01,Standard Bank Group Ltd.,549300CM8CJL8KCOJ661,STDBANK01,STDBANK01,"9th Floor, Standard Bank Centre, 5 Simmonds Street, Johannesburg, 2001, South Africa",South Africa
+STDBANK02,The Standard Bank of South Africa Limited,549300PDZW14C2UK3T72,STDBANK01,STDBANK01,"9th Floor, Standard Bank Centre, 5 Simmonds Street, Johannesburg, 2001, South Africa",South Africa
+STDBANK03,Stanbic Bank Kenya Limited,254900WM54IVDTWDNV96,STDBANK01,STDBANK01,"Standard Bank Centre, Moi Avenue, Nairobi, Kenya",Kenya
+SASOL01,Sasol Ltd.,3789001053B1D37E6E87,SASOL01,SASOL01,"1 Sturdee Avenue, Rosebank, Johannesburg, 2196, South Africa",South Africa
+SASOL02,Sasol Chemicals (USA) LLC,549300HVC3YFAA0U7951,SASOL01,SASOL01,"12120 Wickchester Lane, Suite 600, Houston, TX 77079, USA",United States
+SASOL03,Sasol Germany GmbH,529900T9Q2KHO1AA1R18,SASOL01,SASOL01,"Anckelmannsplatz 1, 20537 Hamburg, Germany",Germany
+SHOPRT01,Shoprite Holdings Ltd.,378900D13FB59C6CBN59,SHOPRT01,SHOPRT01,"Cnr William Dabs & Old Paarl Roads, Brackenfell, 7560, South Africa",South Africa
+SHOPRT02,Shoprite Checkers (Pty) Ltd.,3789006DDB8E4F8E2A86,SHOPRT01,SHOPRT01,"Cnr William Dabs & Old Paarl Roads, Brackenfell, 7560, South Africa",South Africa
+SHOPRT03,Usave Holdings (Pty) Ltd.,378900AN3QR3DJ8P6H42,SHOPRT01,SHOPRT01,"Cnr William Dabs & Old Paarl Roads, Brackenfell, 7560, South Africa",South Africa
+VODACM01,Vodacom Group Ltd.,378900BCBFBFE4E1DB14,VODACM01,VODACM01,"Vodacom Corporate Park, 082 Vodacom Boulevard, Midrand, 1685, South Africa",South Africa
+VODACM02,Vodacom (Pty) Ltd.,3789005D7BDDA9DA3E22,VODACM01,VODACM01,"Vodacom Corporate Park, 082 Vodacom Boulevard, Midrand, 1685, South Africa",South Africa
+VODACM03,Vodacom Tanzania Limited,213800ER83NNM5DYFF38,VODACM01,VODACM01,"Vodacom Tower, Corner of Haile Selassie Road and Sam Nujoma Road, Dar es Salaam, Tanzania",Tanzania
+NVDA0001,NVIDIA Corporation,549300S4KLFTLO7GSQ80,NVDA0001,NVDA0001,"2788 San Tomas Expressway, Santa Clara, CA 95051, USA",United States
+NVDA0002,NVIDIA International Holdings Inc.,549300JQQF9T7YQWM178,NVDA0001,NVDA0001,"2788 San Tomas Expressway, Santa Clara, CA 95051, USA",United States
+NVDA0003,NVIDIA Ireland Holdings Unlimited Company,635400LN1UH9YVPFYH25,NVDA0001,NVDA0001,"One Earlsfort Centre, Earlsfort Terrace, Dublin 2, Ireland",Ireland
+META0001,Meta Platforms Inc.,UFKU7BGLmes4RW7XKU56,META0001,META0001,"1 Meta Way, Menlo Park, CA 94025, USA",United States
+META0002,Facebook Ireland Limited,529900UDclipt6JRKF83,META0001,META0001,"4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland",Ireland
+META0003,Instagram LLC,549300OBF397CKUPQ061,META0001,META0001,"1 Meta Way, Menlo Park, CA 94025, USA",United States
+META0004,WhatsApp LLC,549300Q7R4N45R8DO606,META0001,META0001,"1 Meta Way, Menlo Park, CA 94025, USA",United States
+BRK00001,Berkshire Hathaway Inc.,QOOH0XGZ0WIGVSIYQ105,BRK00001,BRK00001,"3555 Farnam Street, Omaha, NE 68131, USA",United States
+BRK00002,Berkshire Hathaway Energy Company,5493007ZO1OPY67BPG74,BRK00001,BRK00001,"666 Grand Avenue, Des Moines, IA 50309, USA",United States
+BRK00003,GEICO Corporation,549300Q35QLFRBEYH589,BRK00001,BRK00001,"One GEICO Plaza, Washington, DC 20076, USA",United States
+VISA0001,Visa Inc.,549300JZ37ZTA047M591,VISA0001,VISA0001,"P.O. Box 8999, San Francisco, CA 94128, USA",United States
+VISA0002,Visa International Service Association,549300JZ37ZTA047M592,VISA0001,VISA0001,"P.O. Box 8999, San Francisco, CA 94128, USA",United States
+VISA0003,Visa Europe Services Inc.,213800Q2JU6XKJ5GDL53,VISA0001,VISA0001,"1 Sheldon Square, London, W2 6TT, United Kingdom",United Kingdom
+XOM00001,Exxon Mobil Corporation,EXXONMOBIL6OJNHG8794,XOM00001,XOM00001,"5959 Las Colinas Boulevard, Irving, TX 75039, USA",United States
+XOM00002,ExxonMobil Chemical Company,549300C0M3VVHZ1OGH49,XOM00001,XOM00001,"22777 Springwoods Village Parkway, Spring, TX 77389, USA",United States
+XOM00003,Esso Petroleum Company Limited,213800VPUZQHV2A2KJ11,XOM00001,XOM00001,"ExxonMobil House, Ermyn Way, Leatherhead, Surrey, KT22 8UX, United Kingdom",United Kingdom
+UNH00001,UnitedHealth Group Inc.,549300GHBMY8T5GXVV53,UNH00001,UNH00001,"UnitedHealth Group Center, 9900 Bren Road East, Minnetonka, MN 55343, USA",United States
+UNH00002,UnitedHealthcare Inc.,549300YHRGNS48ZJPV24,UNH00001,UNH00001,"9900 Bren Road East, Minnetonka, MN 55343, USA",United States
+UNH00003,Optum Inc.,5493000HKDU5K5N0Y438,UNH00001,UNH00001,"11000 Optum Circle, Eden Prairie, MN 55344, USA",United States
+PG000001,Procter & Gamble Co.,2163TK6YX5AHQVAMSG58,PG000001,PG000001,"One Procter & Gamble Plaza, Cincinnati, OH 45202, USA",United States
+PG000002,Procter & Gamble International Operations SA,549300HROQ95Q6D1EZ25,PG000001,PG000001,"47 route de Saint-Georges, 1213 Petit-Lancy, Geneva, Switzerland",Switzerland
+PG000003,Procter & Gamble UK,213800K64XHFD1A0K302,PG000001,PG000001,"Weybridge Business Park, Addlestone Road, Weybridge, Surrey, KT15 2AE, United Kingdom",United Kingdom
+HD000001,Home Depot Inc.,QEKMOTMBBKA727KISJ09,HD000001,HD000001,"2455 Paces Ferry Road, Atlanta, GA 30339, USA",United States
+HD000002,Home Depot U.S.A. Inc.,549300KWJQBGN5KUXC03,HD000001,HD000001,"2455 Paces Ferry Road, Atlanta, GA 30339, USA",United States
+HD000003,Home Depot Product Authority LLC,549300JQYN37L6QO1G68,HD000001,HD000001,"2455 Paces Ferry Road, Atlanta, GA 30339, USA",United States
+MA000001,Mastercard Incorporated,AR5L2ODV74ZIK2LSN572,MA000001,MA000001,"2000 Purchase Street, Purchase, NY 10577, USA",United States
+MA000002,Mastercard International Incorporated,549300GBU7HE24Z7WJ42,MA000001,MA000001,"2000 Purchase Street, Purchase, NY 10577, USA",United States
+MA000003,Mastercard Europe SA,5493008BKBO61BUK3124,MA000001,MA000001,"Chaussee de Tervuren 198A, 1410 Waterloo, Belgium",Belgium
+PFE00001,Pfizer Inc.,765LHXWDLEBRIFTBVL265,PFE00001,PFE00001,"66 Hudson Boulevard East, New York, NY 10001, USA",United States
+PFE00002,Pfizer Manufacturing Holdings LLC,549300VGKYW0HBRLPX98,PFE00001,PFE00001,"235 East 42nd Street, New York, NY 10017, USA",United States
+PFE00003,Pfizer Limited,2138002UE8MHL41VPL24,PFE00001,PFE00001,"Ramsgate Road, Sandwich, Kent, CT13 9NJ, United Kingdom",United Kingdom
+LVMH0001,LVMH Moet Hennessy Louis Vuitton,529900EKLRVI71V6L548,LVMH0001,LVMH0001,"22 avenue Montaigne, 75008 Paris, France",France
+LVMH0002,Christian Dior SE,5299002R0Z5O7XM32I40,LVMH0001,LVMH0001,"30 avenue Montaigne, 75008 Paris, France",France
+LVMH0003,Louis Vuitton Malletier,969500F1SCTSLQDTJ286,LVMH0001,LVMH0001,"2 rue du Pont-Neuf, 75001 Paris, France",France
+LVMH0004,Moet Hennessy,969500ZMHJJQX77WH474,LVMH0001,LVMH0001,"21 avenue de Champagne, 51200 Epernay, France",France
+ASML0001,ASML Holding N.V.,724500Y6DUVHQD6OXN27,ASML0001,ASML0001,"De Run 6501, 5504 DR Veldhoven, Netherlands",Netherlands
+ASML0002,ASML Netherlands B.V.,7245009T9Y2XQZNMFN34,ASML0001,ASML0001,"De Run 6501, 5504 DR Veldhoven, Netherlands",Netherlands
+ASML0003,ASML US Inc.,549300SWC2GJKO05R673,ASML0001,ASML0001,"8555 South River Parkway, Tempe, AZ 85284, USA",United States
+SAP00001,SAP SE,529900D6BF99LW9R2E68,SAP00001,SAP00001,"Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany",Germany
+SAP00002,SAP America Inc.,549300Q1C8SFOJ4FQU14,SAP00001,SAP00001,"3999 West Chester Pike, Newtown Square, PA 19073, USA",United States
+SAP00003,SAP Labs LLC,549300YJ5UX5AO3W9Z86,SAP00001,SAP00001,"3410 Hillview Avenue, Palo Alto, CA 94304, USA",United States
+SIEM0001,Siemens AG, KDXRIKQDZ9H1MG0ZLN30,SIEM0001,SIEM0001,"Werner-von-Siemens-Strasse 1, 80333 Munich, Germany",Germany
+SIEM0002,Siemens Energy AG,529900S21BQI1O5RXN93,SIEM0001,SIEM0001,"Otto-Hahn-Ring 6, 81739 Munich, Germany",Germany
+SIEM0003,Siemens Healthineers AG,529900SIR4HV3K2RT160,SIEM0001,SIEM0001,"Henkestrasse 127, 91052 Erlangen, Germany",Germany
+TTE00001,TotalEnergies SE,529900S21EQ1BO4ESM68,TTE00001,TTE00001,"2 place Jean Millier, La Defense 6, 92400 Courbevoie, France",France
+TTE00002,TotalEnergies Marketing France,969500H905L2XXRPLH59,TTE00001,TTE00001,"562 avenue du Parc de l'Ile, 92000 Nanterre, France",France
+TTE00003,TotalEnergies EP UK Limited,213800B4VZQR3PNK5W78,TTE00001,TTE00001,"Seafield House, Hill of Rubislaw, Aberdeen, AB15 6XL, United Kingdom",United Kingdom
+SNY00001,Sanofi,549300E9PC51EN656011,SNY00001,SNY00001,"54 rue La Boetie, 75008 Paris, France",France
+SNY00002,Sanofi-Aventis,969500W2AIBDD022MN81,SNY00001,SNY00001,"54 rue La Boetie, 75008 Paris, France",France
+SNY00003,Sanofi US,549300O3L0PXDDS3PJ16,SNY00001,SNY00001,"55 Corporate Drive, Bridgewater, NJ 08807, USA",United States
+ALV00001,Allianz SE,529900K9B4WNH3CW8D86,ALV00001,ALV00001,"Koniginstrasse 28, 80802 Munich, Germany",Germany
+ALV00002,Allianz Global Investors GmbH,529900QVDR4FRW1J7V91,ALV00001,ALV00001,"Bockenheimer Landstrasse 42-44, 60323 Frankfurt am Main, Germany",Germany
+ALV00003,Allianz Life Insurance Company,529900WL5TBS2DQBPV29,ALV00001,ALV00001,"5701 Golden Hills Drive, Minneapolis, MN 55416, USA",United States
+SE000001,Schneider Electric SE,969500A1YF1XUYYXS284,SE000001,SE000001,"35 rue Joseph Monier, 92500 Rueil-Malmaison, France",France
+SE000002,Schneider Electric Industries SAS,969500CAZBVU4R4XFS79,SE000001,SE000001,"35 rue Joseph Monier, 92500 Rueil-Malmaison, France",France
+SE000003,Schneider Electric USA Inc.,549300VNAV88VUY5Y476,SE000001,SE000001,"800 Federal Street, Andover, MA 01810, USA",United States
+AIR00001,Airbus SE,MINO79WLOO247M1IL051,AIR00001,AIR00001,"2 Rond-Point Emile Dewoitine, 31700 Blagnac, France",France
+AIR00002,Airbus Operations SAS,969500MQR3V4I47UVQ60,AIR00001,AIR00001,"1 Rond Point Maurice Bellonte, 31707 Blagnac, France",France
+AIR00003,Airbus Defence and Space GmbH,529900B0K2LI8PBN8A77,AIR00001,AIR00001,"Rechliner Strasse, 85077 Manching, Germany",Germany
+BASF0001,BASF SE,529900PM64WH8AF1E917,BASF0001,BASF0001,"Carl-Bosch-Strasse 38, 67056 Ludwigshafen, Germany",Germany
+BASF0002,BASF Corporation,549300XX36XSDFLNOC78,BASF0001,BASF0001,"100 Park Avenue, Florham Park, NJ 07932, USA",United States
+BASF0003,BASF Coatings GmbH,529900WBOWQHH73J3Q42,BASF0001,BASF0001,"Glasuritstrasse 1, 48165 Munster, Germany",Germany
+SHEL0001,Shell plc,21380068P1DRHMJ8KU70,SHEL0001,SHEL0001,"Shell Centre, London, SE1 7NA, United Kingdom",United Kingdom
+SHEL0002,Shell International B.V.,213800LH1SM8MXU1W206,SHEL0001,SHEL0001,"Carel van Bylandtlaan 30, 2596 HR The Hague, Netherlands",Netherlands
+SHEL0003,Shell Oil Company,549300S4BF77VXUVER98,SHEL0001,SHEL0001,"150 North Dairy Ashford, Houston, TX 77079, USA",United States
+AZN00001,AstraZeneca PLC,PU5MUBRRK5CTLTLKHK63,AZN00001,AZN00001,"1 Francis Crick Avenue, Cambridge Biomedical Campus, Cambridge, CB2 0AA, United Kingdom",United Kingdom
+AZN00002,AstraZeneca UK Limited,2138003KEQRTQ2T5H407,AZN00001,AZN00001,"1 Francis Crick Avenue, Cambridge Biomedical Campus, Cambridge, CB2 0AA, United Kingdom",United Kingdom
+AZN00003,AstraZeneca Pharmaceuticals LP,549300PTYIZKDMEWWZ56,AZN00001,AZN00001,"1800 Concord Pike, Wilmington, DE 19803, USA",United States
+UL000001,Unilever PLC,549300MKFYEKVRWML317,UL000001,UL000001,"100 Victoria Embankment, London, EC4Y 0DY, United Kingdom",United Kingdom
+UL000002,Unilever N.V.,213800WGMAK1C89CV524,UL000001,UL000001,"Weena 455, 3013 AL Rotterdam, Netherlands",Netherlands
+UL000003,Unilever United States Inc.,549300HTIN13J0I9ZB96,UL000001,UL000001,"700 Sylvan Avenue, Englewood Cliffs, NJ 07632, USA",United States
+DGE00001,Diageo plc,213800ZVIELEA55JMJ32,DGE00001,DGE00001,"Lakeside Drive, Park Royal, London, NW10 7HQ, United Kingdom",United Kingdom
+DGE00002,Diageo Scotland Limited,213800YX4WRGMYU3OC39,DGE00001,DGE00001,"Edinburgh Park, 5 Lochside Way, Edinburgh, EH12 9DT, United Kingdom",United Kingdom
+DGE00003,Diageo North America Inc.,549300YC3USWJYPB9T17,DGE00001,DGE00001,"801 Main Avenue, Norwalk, CT 06851, USA",United States
+GLEN0001,Glencore plc,2138002658CPO9NBH955,GLEN0001,GLEN0001,"Baarermattstrasse 3, 6340 Baar, Switzerland",Switzerland
+GLEN0002,Glencore International AG,213800INQ1O4I8SXI342,GLEN0001,GLEN0001,"Baarermattstrasse 3, 6340 Baar, Switzerland",Switzerland
+GLEN0003,Glencore Ltd.,213800JHCZU7VQYI8T30,GLEN0001,GLEN0001,"Baarermattstrasse 3, 6340 Baar, Switzerland",Switzerland
+RIO00001,Rio Tinto Group,213800YOEO5OQ72G2R19,RIO00001,RIO00001,"6 St James's Square, London, SW1Y 4AD, United Kingdom",United Kingdom
+RIO00002,Rio Tinto Limited,529900GREXQKGGHPG741,RIO00001,RIO00001,"Level 7, 360 Collins Street, Melbourne, VIC 3000, Australia",Australia
+RIO00003,Rio Tinto plc,213800YOEO5OQ72G2R09,RIO00001,RIO00001,"6 St James's Square, London, SW1Y 4AD, United Kingdom",United Kingdom
+BAT00001,British American Tobacco p.l.c.,213800D1EI4B9WTWWD28,BAT00001,BAT00001,"Globe House, 4 Temple Place, London, WC2R 2PG, United Kingdom",United Kingdom
+BAT00002,BAT Investments Limited,213800KWOIYM2DPSN353,BAT00001,BAT00001,"Globe House, 4 Temple Place, London, WC2R 2PG, United Kingdom",United Kingdom
+BAT00003,British American Tobacco (Brands) Inc.,549300T4C2N0IL1BPG55,BAT00001,BAT00001,"401 South 4th Avenue, Louisville, KY 40202, USA",United States
+GSK00001,GSK plc,213800AEZMHQQVXZ3C29,GSK00001,GSK00001,"980 Great West Road, Brentford, Middlesex, TW8 9GS, United Kingdom",United Kingdom
+GSK00002,GlaxoSmithKline LLC,549300HBX70X2WWXRM46,GSK00001,GSK00001,"5 Crescent Drive, Philadelphia, PA 19112, USA",United States
+GSK00003,GlaxoSmithKline Trading Services Limited,213800XJUR2NH29AJ742,GSK00001,GSK00001,"980 Great West Road, Brentford, Middlesex, TW8 9GS, United Kingdom",United Kingdom
+LLOY0001,Lloyds Banking Group plc,5493000IBP32UQZ0KL24,LLOY0001,LLOY0001,"25 Gresham Street, London, EC2V 7HN, United Kingdom",United Kingdom
+LLOY0002,Lloyds Bank plc,ICBPI0000000019210,LLOY0001,LLOY0001,"25 Gresham Street, London, EC2V 7HN, United Kingdom",United Kingdom
+LLOY0003,Bank of Scotland plc,213800IB22TMM2J5YO57,LLOY0001,LLOY0001,"The Mound, Edinburgh, EH1 1YZ, United Kingdom",United Kingdom
+BARC0001,Barclays PLC,213800LBQA1Y9L22JB70,BARC0001,BARC0001,"1 Churchill Place, London, E14 5HP, United Kingdom",United Kingdom
+BARC0002,Barclays Bank PLC,G5GSEF7VJP5I7OUK5573,BARC0001,BARC0001,"1 Churchill Place, London, E14 5HP, United Kingdom",United Kingdom
+BARC0003,Barclays Bank UK PLC,213800VWHRZSV85ZVY61,BARC0001,BARC0001,"1 Churchill Place, London, E14 5HP, United Kingdom",United Kingdom
+DAL00001,Delta Air Lines Inc.,HOQKIBT010LV38VGQT23,DAL00001,DAL00001,"1030 Delta Boulevard, Atlanta, GA 30354, USA",United States
+DAL00002,Delta Connection Carriers,549300C7GQMXAKNZY485,DAL00001,DAL00001,"1030 Delta Boulevard, Atlanta, GA 30354, USA",United States
+DAL00003,Delta Private Jets Inc.,549300YMHWLMG4AVJS90,DAL00001,DAL00001,"1775 Aviation Boulevard, Suite 100, Atlanta, GA 30341, USA",United States
+AAL00001,American Airlines Group Inc.,IWUBEFCL7WR5RP0RN461,AAL00001,AAL00001,"1 Skyview Drive, Fort Worth, TX 76155, USA",United States
+AAL00002,American Airlines Inc.,8SVXBJ36IQIZONYWL212,AAL00001,AAL00001,"1 Skyview Drive, Fort Worth, TX 76155, USA",United States
+AAL00003,Envoy Air Inc.,549300KI3NP1EMWQ0H93,AAL00001,AAL00001,"4333 Amon Carter Boulevard, Fort Worth, TX 76155, USA",United States
+LUV00001,Southwest Airlines Co.,UDTZ87G0STFETI75EH26,LUV00001,LUV00001,"2702 Love Field Drive, Dallas, TX 75235, USA",United States
+LUV00002,Southwest Business,549300VZ4KCMQPXD0Z64,LUV00001,LUV00001,"2702 Love Field Drive, Dallas, TX 75235, USA",United States
+UAL00001,United Airlines Holdings Inc.,1YQ0XFVCYLHHSQC75Z12,UAL00001,UAL00001,"233 South Wacker Drive, Chicago, IL 60606, USA",United States
+UAL00002,United Airlines Inc.,1A84QL84I8ZWTVJDZO85,UAL00001,UAL00001,"233 South Wacker Drive, Chicago, IL 60606, USA",United States
+UAL00003,United Express Carriers,549300JA67ZZJYK2SM39,UAL00001,UAL00001,"233 South Wacker Drive, Chicago, IL 60606, USA",United States
+LH000001,Lufthansa AG,529900R8E0RFT79YGR42,LH000001,LH000001,"Lufthansa Aviation Center, Airportring, 60546 Frankfurt, Germany",Germany
+LH000002,Lufthansa Cargo AG,529900MS8Y22TWNKVG90,LH000001,LH000001,"Lufthansa Aviation Center, 60546 Frankfurt, Germany",Germany
+LH000003,Swiss International Air Lines AG,50670040L0JQE38JU428,LH000001,LH000001,"EuroAirport, 4002 Basel, Switzerland",Switzerland
+AF000001,Air France-KLM SA,969500TJ5KRTCJQWXH05,AF000001,AF000001,"2 rue Robert Esnault-Pelterie, 75007 Paris, France",France
+AF000002,Air France,969500UIC89GT3UL7L48,AF000001,AF000001,"45 rue de Paris, 95747 Roissy CDG Cedex, France",France
+AF000003,KLM Royal Dutch Airlines,7245001I22ND6ZOWC165,AF000001,AF000001,"Amsterdamseweg 55, 1182 GP Amstelveen, Netherlands",Netherlands
+IAG00001,International Airlines Group SA,959800TZHQRUSH1ESL13,IAG00001,IAG00001,"Planta 7, Edificio Iberia Mart 1, Calle Martinez Villergas 49, 28027 Madrid, Spain",Spain
+IAG00002,British Airways plc,PYBVQ712NP2DW57DPY27,IAG00001,IAG00001,"Waterside, PO Box 365, Harmondsworth, UB7 0GB, United Kingdom",United Kingdom
+IAG00003,Iberia Lineas Aereas de Espana S.A. Operadora,959800PUZUQXS9XXRP93,IAG00001,IAG00001,"Calle Velazquez 130, 28006 Madrid, Spain",Spain
+RYA00001,Ryanair Holdings plc,529900QEKFHPX7AAQYU17,RYA00001,RYA00001,"Ryanair Dublin Office, Airside Business Park, Swords, Co. Dublin, Ireland",Ireland
+RYA00002,Ryanair DAC,5299005LYFS0N6C9BT03,RYA00001,RYA00001,"Ryanair Dublin Office, Airside Business Park, Swords, Co. Dublin, Ireland",Ireland
+MAERSK01,A.P. Moller - Maersk A/S,549300D2K739W1E27M62,MAERSK01,MAERSK01,"Esplanaden 50, 1098 Copenhagen K, Denmark",Denmark
+MAERSK02,Maersk Line A/S,529900LKCV8SSLM6MF27,MAERSK01,MAERSK01,"Esplanaden 50, 1098 Copenhagen K, Denmark",Denmark
+MAERSK03,APM Terminals,5299008RSZFE3M7GW930,MAERSK01,MAERSK01,"Hague Corporate Affairs, Parallelweg 48, 2201 CN Noordwijk, Netherlands",Netherlands
+HLAG0001,Hapag-Lloyd AG,529900IQVVHY44FK8R57,HLAG0001,HLAG0001,"Ballindamm 25, 20095 Hamburg, Germany",Germany
+HLAG0002,Hapag-Lloyd Container Line GmbH,529900NZIZWQI1KVUI96,HLAG0001,HLAG0001,"Ballindamm 25, 20095 Hamburg, Germany",Germany
+HLAG0003,Hapag-Lloyd (America) LLC,549300MSLV2DBBU0AZ77,HLAG0001,HLAG0001,"23 Main Street, 2nd Floor, Holmdel, NJ 07733, USA",United States
+EVGR0001,Evergreen Marine Corp.,254900XFFIQ85M6CRO81,EVGR0001,EVGR0001,"166 MinSheng E. Road, Section 2, Taipei 10489, Taiwan",Taiwan
+EVGR0002,Evergreen International S.A.,213800YUZ9X8Q9XMRE84,EVGR0001,EVGR0001,"9 Boulevard Prince Henri, L-1724 Luxembourg",Luxembourg
+OOIL0001,Orient Overseas Intl Ltd.,254900DXOUXQV1C3PL47,OOIL0001,OOIL0001,"33rd Floor, Harbour Centre, 25 Harbour Road, Wanchai, Hong Kong",Hong Kong
+OOIL0002,Orient Overseas Container Line Ltd.,254900A54GPBDJYF9Q43,OOIL0001,OOIL0001,"28th Floor, Harbour Centre, 25 Harbour Road, Wanchai, Hong Kong",Hong Kong
+COSCO001,Cosco Shipping Holdings Co Ltd.,549300I0P09CGI5Y1G42,COSCO001,COSCO001,"378 Pudong Avenue South, Pudong New Area, Shanghai 200135, China",China
+COSCO002,COSCO Shipping Lines Co Ltd.,300300COSCOLHEXO0001,COSCO001,COSCO001,"378 Pudong Avenue South, Pudong New Area, Shanghai 200135, China",China
+COSCO003,COSCO Shipping Ports Limited,254900VH0KNGXP8KYX84,COSCO001,COSCO001,"49/F, COSCO Tower, 183 Queen's Road Central, Hong Kong",Hong Kong
+FRO00001,Frontline Ltd.,549300HJHWHEP19LKU23,FRO00001,FRO00001,"Par-la-Ville Place, 14 Par-la-Ville Road, Hamilton, HM 08, Bermuda",Bermuda
+FRO00002,Frontline Management AS,549300HJHWHEP19LKU24,FRO00001,FRO00001,"Bryggegata 3, 0250 Oslo, Norway",Norway
+VZ000001,Verizon Communications Inc.,2S72QS2UO2OESLG0VD83,VZ000001,VZ000001,"1095 Avenue of the Americas, New York, NY 10036, USA",United States
+VZ000002,Verizon Wireless,549300D0YARF5Q77AL62,VZ000001,VZ000001,"One Verizon Way, Basking Ridge, NJ 07920, USA",United States
+VZ000003,Verizon Business,549300FD8DI3CKDMK374,VZ000001,VZ000001,"22001 Loudoun County Parkway, Ashburn, VA 20147, USA",United States
+ATT00001,AT&T Inc.,549300Z40J86GGZXFM68,ATT00001,ATT00001,"208 S. Akard Street, Dallas, TX 75202, USA",United States
+ATT00002,AT&T Mobility LLC,549300DGM6D32IUYT867,ATT00001,ATT00001,"575 Morosgo Drive NE, Atlanta, GA 30324, USA",United States
+ATT00003,AT&T Communications LLC,549300R8YI48F9YEBC42,ATT00001,ATT00001,"208 S. Akard Street, Dallas, TX 75202, USA",United States
+TMUS0001,T-Mobile US Inc.,549300T45GRLXUL7N831,TMUS0001,TMUS0001,"12920 SE 38th Street, Bellevue, WA 98006, USA",United States
+TMUS0002,T-Mobile USA Inc.,529900RVGZGRXUDIIH33,TMUS0001,TMUS0001,"12920 SE 38th Street, Bellevue, WA 98006, USA",United States
+TMUS0003,Metro by T-Mobile,549300BD5TPNNQDDX652,TMUS0001,TMUS0001,"12920 SE 38th Street, Bellevue, WA 98006, USA",United States
+CHL00001,China Mobile Ltd.,5493001BLH1TWJYWR812,CHL00001,CHL00001,"60th Floor, The Center, 99 Queen's Road Central, Hong Kong",Hong Kong
+CHL00002,China Mobile Communications Corporation,300300CMCCHLEXO0001,CHL00001,CHL00001,"53A Xibianmennei Street, Xicheng District, Beijing 100053, China",China
+VOD00001,Vodafone Group Plc,213800TB53ELEUKM7Q61,VOD00001,VOD00001,"Vodafone House, The Connection, Newbury, Berkshire, RG14 2FN, United Kingdom",United Kingdom
+VOD00002,Vodafone Limited,2138005NRFWI39Y8VL55,VOD00001,VOD00001,"Vodafone House, The Connection, Newbury, Berkshire, RG14 2FN, United Kingdom",United Kingdom
+VOD00003,Vodafone Deutschland GmbH,529900LSYPZHBDXQYH48,VOD00001,VOD00001,"Ferdinand-Braun-Platz 1, 40549 Dusseldorf, Germany",Germany
+ORA00001,Orange SA,969500FR7KLQI580NB73,ORA00001,ORA00001,"111 quai du President Roosevelt, 92130 Issy-les-Moulineaux, France",France
+ORA00002,Orange Business Services,969500UK95KLQI580NB74,ORA00001,ORA00001,"1 avenue du President Wilson, 94250 Gentilly, France",France
+ORA00003,Orange Espana SA,9598007F3AO78PPXF598,ORA00001,ORA00001,"Calle Retama 7, 28045 Madrid, Spain",Spain
+DT000001,Deutsche Telekom AG,549300V9QSIG4WX4GJ96,DT000001,DT000001,"Friedrich-Ebert-Allee 140, 53113 Bonn, Germany",Germany
+DT000002,T-Systems International GmbH,529900NA77TL0BCXKE86,DT000001,DT000001,"Hahnstrasse 43d, 60528 Frankfurt am Main, Germany",Germany
+DT000003,T-Mobile Netherlands,724500GLZTFBII9SNC24,DT000001,DT000001,"Waldorpstraat 60, 2521 CC The Hague, Netherlands",Netherlands
+TEF00001,Telefonica SA,EGGHBY1UJIILZ72UES91,TEF00001,TEF00001,"Gran Via 28, 28013 Madrid, Spain",Spain
+TEF00002,Telefonica Moviles Espana SAU,959800QHQGPKKGCQ5K69,TEF00001,TEF00001,"Ronda de la Comunicacion s/n, 28050 Madrid, Spain",Spain
+TEF00003,Telefonica UK Limited,213800XLPZBBWXBNQF95,TEF00001,TEF00001,"260 Bath Road, Slough, SL1 4DX, United Kingdom",United Kingdom
+SPOT0001,Spotify Technology S.A.,549300B4S77PQFXZN786,SPOT0001,SPOT0001,"15 avenue J.F. Kennedy, L-1855 Luxembourg",Luxembourg
+SPOT0002,Spotify AB,5567788LXFTTUZ6Y8S14,SPOT0001,SPOT0001,"Regeringsgatan 19, 111 53 Stockholm, Sweden",Sweden
+SPOT0003,Spotify USA Inc.,549300VVKRS0LCJWF265,SPOT0001,SPOT0001,"4 World Trade Center, 150 Greenwich Street, 62nd Floor, New York, NY 10007, USA",United States

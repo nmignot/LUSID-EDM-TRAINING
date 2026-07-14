@@ -1,0 +1,5 @@
+ClientInternal,StartDate,OptionMaturityDate,OptionSettlementDate,DeliveryType,OptionType,Strike,DomCcy,UnderlyingIdentifier,Code,EquityOptionType,NumberOfShares,PremiumAmount,PremiumCurrency,ExerciseType,Underlying,DeliveryDays,BusinessDayConvention,SettlementCalendars,TimeZoneConventions,InstrumentType,DisplayName
+EQOPT0001,01/01/2025,31/12/2025,01/01/2025,Physical,Call,150,USD,ClientInternal,EQT00001,American,100,5.25,USD,American,AAPL,2,ModifiedFollowing,NYSE,America/New_York,EquityOption,Apple Call Option 150 Physical
+EQOPT0002,01/01/2025,31/12/2025,01/01/2025,Physical,Call,200,USD,ClientInternal,EQT00005,American,100,12.5,USD,American,TSLA,2,ModifiedFollowing,NASDAQ,America/New_York,EquityOption,Tesla Call Option 200 Physical
+EQOPT0003,01/03/2025,30/06/2025,01/07/2025,Cash,Call,5000,USD,ClientInternal,SPX,European,100,45,USD,European,SPX,2,ModifiedFollowing,CBOE,America/New_York,EquityOption,S&P 500 Call Option 5000 Cash
+EQOPT0004,01/03/2025,30/09/2025,01/10/2025,Cash,Put,4800,USD,ClientInternal,SPX,European,100,38,USD,European,SPX,2,ModifiedFollowing,CBOE,America/New_York,EquityOption,S&P 500 Put Option 4800 Cash

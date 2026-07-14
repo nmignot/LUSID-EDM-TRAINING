@@ -1,0 +1,179 @@
+PortfolioCode,ClientInternal,SecurityName,LocalCurrency,PortfolioBaseCurrency,TxnId,TransactionDate,Type,Strategy,Units,TradePrice,PricedAsPct
+TPV_Infrastructure,UTILIAUD0001,NSW Water Supply Project,AUD,USD,TRD_0001,01/01/2025,StockIn,Income,1,4734600,No
+TPV_Infrastructure,UTILIAUD0002,Victoria Gas Network Upgrade,AUD,USD,TRD_0002,01/01/2025,StockIn,Income,1,3352500,No
+TPV_Infrastructure,UTILIAUD0003,Queensland Power Grid Expansion,AUD,USD,TRD_0003,01/01/2025,StockIn,Income,1,6910900,No
+TPV_Infrastructure,UTILIAUD0004,Western Australia Water Treatment Plant,AUD,USD,TRD_0004,01/01/2025,StockIn,Income,1,6517500,No
+TPV_Infrastructure,UTILIAUD0005,NSW Gas Distribution Enhancement,AUD,USD,TRD_0005,01/01/2025,StockIn,Income,1,9017300,No
+TPV_Infrastructure,UTILIAUD0006,South Australia Water Infrastructure,AUD,USD,TRD_0006,01/01/2025,StockIn,Income,1,3835700,No
+TPV_Infrastructure,UTILIGBP0007,London Electricity Network Modernisation,GBP,USD,TRD_0007,01/01/2025,StockIn,Income,1,7473400,No
+TPV_Infrastructure,AIR00001,Heathrow Airport Terminal 5,GBP,USD,TRD_0008,01/01/2025,StockIn,Income,1,6517500,No
+TPV_Infrastructure,AIR00002,Manchester Airport,GBP,USD,TRD_0009,01/01/2025,StockIn,Income,1,6517500,No
+TPV_Infrastructure,AIR00003,Edinburgh Airport,GBP,USD,TRD_0010,01/01/2025,StockIn,Income,1,9017300,No
+TPV_Infrastructure,AIR00004,Sydney Kingsford Smith Airport,AUD,USD,TRD_0011,01/01/2025,StockIn,Income,1,3835700,No
+TPV_Infrastructure,AIR00005,Melbourne Airport,AUD,USD,TRD_0012,01/01/2025,StockIn,Income,1,7473400,No
+TPV_GlobalFixedIncome,GOV00001,US Treasury 2.75% February 2033,USD,USD,TRD_0001,01/01/2025,Buy,Income,9317000,96,Yes
+TPV_GlobalFixedIncome,GOV00002,UK Gilt 3.25% March 2033,GBP,USD,TRD_0002,01/01/2025,Buy,Income,5844300,102,Yes
+TPV_GlobalFixedIncome,GOV00003,German Bund 2.3% January 2033,EUR,USD,TRD_0003,01/01/2025,Buy,Income,2129600,109,Yes
+TPV_GlobalFixedIncome,GOV00004,JGB 0.5% March 2033,JPY,USD,TRD_0004,01/01/2025,Buy,Income,11023100,100,Yes
+TPV_GlobalFixedIncome,GOV00005,US TIPS 1.125% January 2033,USD,USD,TRD_0005,01/01/2025,Buy,Income,4089800,97,Yes
+TPV_GlobalFixedIncome,GOV00006,US Treasury Note 2.5% January 2029,USD,USD,TRD_0006,01/01/2025,Buy,Income,10781100,90,Yes
+TPV_GlobalFixedIncome,GOV00007,US Treasury Bond 3.0% August 2053,USD,USD,TRD_0007,01/01/2025,Buy,Income,10551200,93,Yes
+TPV_GlobalFixedIncome,GOV00008,UK Gilt 3.5% November 2038,GBP,USD,TRD_0008,01/01/2025,Buy,Income,8070700,98,Yes
+TPV_GlobalFixedIncome,GOV00009,US Treasury TIPS 1.0% April 2034,USD,USD,TRD_0009,01/01/2025,Buy,Income,6001600,97,Yes
+TPV_GlobalFixedIncome,GOV00010,UK Index-Linked Gilt 0.75% August 2029,GBP,USD,TRD_0010,01/01/2025,Buy,Income,6037900,107,Yes
+TPV_GlobalFixedIncome,GOV00011,French OAT 2.15% May 2033,EUR,USD,TRD_0011,01/01/2025,Buy,Income,11180400,94,Yes
+TPV_GlobalFixedIncome,GOV00012,Danish Government Bond 1.75% October 2030,DKK,USD,TRD_0012,01/01/2025,Buy,Income,10200300,107,Yes
+TPV_GlobalFixedIncome,GOV00013,French OAT (Long) 2.5% November 2052,EUR,USD,TRD_0013,01/01/2025,Buy,Income,11156200,97,Yes
+TPV_GlobalFixedIncome,GOV00014,Danish Government Bond (Short) 1.25% March 2027,DKK,USD,TRD_0014,01/01/2025,Buy,Income,10297100,104,Yes
+TPV_GlobalFixedIncome,GOV00015,French OATei (Inflation-Linked) 0.8% July 2030,EUR,USD,TRD_0015,01/01/2025,Buy,Income,3944600,99,Yes
+TPV_GlobalFixedIncome,IVG00001,Apple Inc. 3.2% January 2025,USD,USD,TRD_0016,01/01/2025,Buy,Income,11107800,103,Yes
+TPV_GlobalFixedIncome,GOV00005,US TIPS 1.125% January 2033,USD,USD,TRD_0017,03/02/2025,Sell,Income,1210000,110,Yes
+TPV_GlobalFixedIncome,GOV00006,US Treasury Note 2.5% January 2029,USD,USD,TRD_0018,03/02/2025,Sell,Income,1210000,114,Yes
+TPV_GlobalFixedIncome,GOV00007,US Treasury Bond 3.0% August 2053,USD,USD,TRD_0019,03/02/2025,Sell,Income,1210000,110,Yes
+TPV_GlobalFixedIncome,GOV00008,UK Gilt 3.5% November 2038,GBP,USD,TRD_0020,03/02/2025,Sell,Income,1210000,117,Yes
+TPV_GlobalFixedIncome,GOV00009,US Treasury TIPS 1.0% April 2034,USD,USD,TRD_0021,03/02/2025,Sell,Income,1210000,119,Yes
+TPV_GlobalFixedIncome,GOV00010,UK Index-Linked Gilt 0.75% August 2029,GBP,USD,TRD_0022,03/02/2025,Sell,Income,1210000,112,Yes
+TPV_GlobalFixedIncome,GOV00011,French OAT 2.15% May 2033,EUR,USD,TRD_0023,03/02/2025,Sell,Income,1210000,119,Yes
+TPV_GlobalFixedIncome,GOV00012,Danish Government Bond 1.75% October 2030,DKK,USD,TRD_0024,03/02/2025,Sell,Income,1210000,112,Yes
+TPV_GlobalFixedIncome,GOV00013,French OAT (Long) 2.5% November 2052,EUR,USD,TRD_0025,03/02/2025,Sell,Income,1210000,119,Yes
+TPV_GlobalFixedIncome,GOV00014,Danish Government Bond (Short) 1.25% March 2027,DKK,USD,TRD_0026,03/02/2025,Sell,Income,1210000,111,Yes
+TPV_GlobalFixedIncome,GOV00015,French OATei (Inflation-Linked) 0.8% July 2030,EUR,USD,TRD_0027,03/02/2025,Sell,Income,1210000,115,Yes
+TPV_GlobalFixedIncome,IVG00001,Apple Inc. 3.2% January 2025,USD,USD,TRD_0028,03/02/2025,Sell,Income,1210000,115,Yes
+TPV_GlobalFixedIncome,IVG00002,Microsoft Corporation 3.1% March 2025,USD,USD,TRD_0029,01/01/2025,Buy,Income,5505500,97,Yes
+TPV_GlobalFixedIncome,IVG00003,HSBC Holdings plc 4.2% June 2025,GBP,USD,TRD_0030,01/01/2025,Buy,Income,10478600,103,Yes
+TPV_GlobalFixedIncome,IVG00004,BP plc 4.5% September 2025,GBP,USD,TRD_0031,01/01/2025,Buy,Income,7756100,101,Yes
+TPV_GlobalFixedIncome,IVG00005,Deutsche Bank AG 4.8% January 2026,EUR,USD,TRD_0032,01/01/2025,Buy,Income,1875500,95,Yes
+TPV_GlobalFixedIncome,IVG00006,Volkswagen AG 3.9% March 2026,EUR,USD,TRD_0033,01/01/2025,Buy,Income,6279900,108,Yes
+TPV_GlobalFixedIncome,IVG00007,Toyota Motor Corporation 2.8% June 2026,JPY,USD,TRD_0034,01/01/2025,Buy,Income,2141700,98,Yes
+TPV_GlobalFixedIncome,IVG00008,Sony Corporation 3.0% September 2026,JPY,USD,TRD_0035,01/01/2025,Buy,Income,1923900,98,Yes
+TPV_GlobalFixedIncome,IVG00009,Volvo AB 3.5% December 2026,SEK,USD,TRD_0036,01/01/2025,Buy,Income,2044900,95,Yes
+TPV_GlobalFixedIncome,IVG00010,Ericsson 3.8% March 2027,SEK,USD,TRD_0037,01/01/2025,Buy,Income,5759600,102,Yes
+TPV_GlobalFixedIncome,ILQ00001,Republic of Argentina 2053 7.25%,ARS,USD,TRD_0038,01/01/2025,Buy,Income,71390000,80,Yes
+TPV_GlobalFixedIncome,ILQ00002,Kingdom of Thailand 2048 4.75%,THB,USD,TRD_0039,01/01/2025,Buy,Income,71390000,75,Yes
+TPV_GlobalEquities,EQT00001,Apple Inc-,USD,USD,TRD_0001,01/01/2025,Buy,Income,93200,133,No
+TPV_GlobalEquities,EQT00002,Microsoft Corporation,USD,USD,TRD_0002,01/01/2025,Buy,Income,10600,79,No
+TPV_GlobalEquities,EQT00003,Amazon-com Inc-,USD,USD,TRD_0003,01/01/2025,Buy,Income,55500,98,No
+TPV_GlobalEquities,EQT00004,Alphabet Inc-,USD,USD,TRD_0004,01/01/2025,Buy,Income,71900,117,No
+TPV_GlobalEquities,EQT00005,Tesla Inc-,USD,USD,TRD_0005,01/01/2025,Buy,Income,45200,68,No
+TPV_GlobalEquities,EQT00006,JPMorgan Chase & Co-,USD,USD,TRD_0006,01/01/2025,Buy,Income,59600,52,No
+TPV_GlobalEquities,EQT00007,Johnson & Johnson,USD,USD,TRD_0007,01/01/2025,Buy,Income,79400,175,No
+TPV_GlobalEquities,EQT00008,Naspers Ltd-,ZAR,USD,TRD_0008,01/01/2025,Buy,Income,54600,135,No
+TPV_GlobalEquities,EQT00009,Anglo American plc,ZAR,USD,TRD_0009,01/01/2025,Buy,Income,98600,180,No
+TPV_GlobalEquities,EQT00010,FirstRand Ltd-,ZAR,USD,TRD_0010,01/01/2025,Buy,Income,64800,92,No
+TPV_GlobalEquities,EQT00011,MTN Group Ltd-,ZAR,USD,TRD_0011,01/01/2025,Buy,Income,93100,157,No
+TPV_GlobalEquities,EQT00012,Standard Bank Group Ltd-,ZAR,USD,TRD_0012,01/01/2025,Buy,Income,14700,150,No
+TPV_GlobalEquities,EQT00013,Sasol Ltd-,ZAR,USD,TRD_0013,01/01/2025,Buy,Income,20000,119,No
+TPV_GlobalEquities,EQT00014,Shoprite Holdings Ltd-,ZAR,USD,TRD_0014,01/01/2025,Buy,Income,33600,92,No
+TPV_GlobalEquities,EQT00015,Vodacom Group Ltd-,ZAR,USD,TRD_0015,01/01/2025,Buy,Income,26000,196,No
+TPV_GlobalEquities,EQT00016,NVIDIA Corporation,USD,USD,TRD_0016,01/01/2025,Buy,Income,43100,193,No
+TPV_GlobalEquities,EQT00017,Meta Platforms Inc.,USD,USD,TRD_0017,01/01/2025,Buy,Income,73000,175,No
+TPV_GlobalEquities,EQT00018,Berkshire Hathaway Inc.,USD,USD,TRD_0018,01/01/2025,Buy,Income,37000,129,No
+TPV_GlobalEquities,EQT00019,Visa Inc.,USD,USD,TRD_0019,01/01/2025,Buy,Income,19500,81,No
+TPV_GlobalEquities,EQT00020,Exxon Mobil Corporation,USD,USD,TRD_0020,01/01/2025,Buy,Income,28500,185,No
+TPV_GlobalEquities,EQT00021,UnitedHealth Group Inc.,USD,USD,TRD_0021,01/01/2025,Buy,Income,21100,144,No
+TPV_GlobalEquities,EQT00023,Home Depot Inc.,USD,USD,TRD_0022,01/01/2025,Buy,Income,62200,119,No
+TPV_GlobalEquities,EQT00024,Mastercard Incorporated,USD,USD,TRD_0023,01/01/2025,Buy,Income,27500,146,No
+TPV_GlobalEquities,EQT00025,Pfizer Inc.,USD,USD,TRD_0024,01/01/2025,Buy,Income,38600,81,No
+TPV_GlobalEquities,EQT00026,LVMH Moet Hennessy Louis Vuitton,EUR,USD,TRD_0025,01/01/2025,Buy,Income,98200,122,No
+TPV_GlobalEquities,EQT00027,ASML Holding N.V.,EUR,USD,TRD_0026,01/01/2025,Buy,Income,16900,154,No
+TPV_GlobalEquities,EQT00028,SAP SE,EUR,USD,TRD_0027,01/01/2025,Buy,Income,67800,110,No
+TPV_GlobalEquities,EQT00030,TotalEnergies SE,EUR,USD,TRD_0028,01/01/2025,Buy,Income,44100,94,No
+TPV_GlobalEquities,EQT00031,Sanofi,EUR,USD,TRD_0029,01/01/2025,Buy,Income,99500,81,No
+TPV_GlobalEquities,EQT00033,Schneider Electric SE,EUR,USD,TRD_0030,01/01/2025,Buy,Income,61800,123,No
+TPV_GlobalEquities,EQT00014,Shoprite Holdings Ltd-,ZAR,USD,TRD_0031,03/02/2025,Sell,Income,5000,95,No
+TPV_GlobalEquities,EQT00015,Vodacom Group Ltd-,ZAR,USD,TRD_0032,03/02/2025,Sell,Income,5000,102,No
+TPV_GlobalEquities,EQT00016,NVIDIA Corporation,USD,USD,TRD_0033,03/02/2025,Sell,Income,5000,80,No
+TPV_GlobalEquities,EQT00017,Meta Platforms Inc.,USD,USD,TRD_0034,03/02/2025,Sell,Income,5000,75,No
+TPV_GlobalEquities,EQT00018,Berkshire Hathaway Inc.,USD,USD,TRD_0035,03/02/2025,Sell,Income,5000,133,No
+TPV_GlobalEquities,EQT00019,Visa Inc.,USD,USD,TRD_0036,03/02/2025,Sell,Income,5000,79,No
+TPV_GlobalEquities,EQT00020,Exxon Mobil Corporation,USD,USD,TRD_0037,03/02/2025,Sell,Income,5000,98,No
+TPV_GlobalEquities,EQT00021,UnitedHealth Group Inc.,USD,USD,TRD_0038,03/02/2025,Sell,Income,5000,117,No
+TPV_GlobalEquities,EQT00023,Home Depot Inc.,USD,USD,TRD_0039,03/02/2025,Sell,Income,5000,68,No
+TPV_GlobalEquities,EQT00024,Mastercard Incorporated,USD,USD,TRD_0040,03/02/2025,Sell,Income,5000,52,No
+TPV_GlobalEquities,EQT00030,TotalEnergies SE,EUR,USD,TRD_0041,03/02/2025,Sell,Income,5000,175,No
+TPV_GlobalEquities,EQT00031,Sanofi,EUR,USD,TRD_0042,03/02/2025,Sell,Income,5000,135,No
+TPV_GlobalEquities,EQT00033,Schneider Electric SE,EUR,USD,TRD_0043,03/02/2025,Sell,Income,5000,180,No
+TPV_GlobalEquities,FXUSDEUR2025DEC,Fx Forward,EUR,USD,TRD_0044,01/01/2025,FwdFxSell,Income,200000,1,No
+TPV_PrivateEquity,PGT00001,SpaceX (Series A Investment),USD,USD,TRD_0001,01/01/2025,StockIn,Income,73000,86,No
+TPV_PrivateEquity,PGT00002,Stripe (Series B Investment),USD,USD,TRD_0002,01/01/2025,StockIn,Income,37000,95,No
+TPV_PrivateEquity,PGT00003,Epic Games (Series C Investment),USD,USD,TRD_0003,01/01/2025,StockIn,Income,19500,92,No
+TPV_PrivateEquity,PGT00004,Instacart (Series D Investment),USD,USD,TRD_0004,01/01/2025,StockIn,Income,28500,80,No
+TPV_PrivateEquity,PGT00005,Databricks (Series E Investment),USD,USD,TRD_0005,01/01/2025,StockIn,Income,21100,81,No
+TPV_PrivateEquity,PGT00006,Plaid (Series A Investment),USD,USD,TRD_0006,01/01/2025,StockIn,Income,62200,86,No
+TPV_PrivateEquity,PGT00007,Chime (Series B Investment),USD,USD,TRD_0007,01/01/2025,StockIn,Income,27500,83,No
+TPV_PrivateEquity,PGT00008,Discord (Series C Investment),USD,USD,TRD_0008,01/01/2025,StockIn,Income,38600,83,No
+TPV_PrivateEquity,PGT00009,Notion (Series D Investment),USD,USD,TRD_0009,01/01/2025,StockIn,Income,98200,88,No
+TPV_PrivateEquity,PGT00010,Fanatics (Series E Investment),USD,USD,TRD_0010,01/01/2025,StockIn,Income,16900,80,No
+TPV_PrivateEquity,PGT00011,Rain (Series A Investment),ZAR,USD,TRD_0011,01/01/2025,StockIn,Income,67800,95,No
+TPV_PrivateEquity,PGT00012,Yoco (Series B Investment),ZAR,USD,TRD_0012,01/01/2025,StockIn,Income,44100,83,No
+TPV_PrivateEquity,PGT00013,Aerobotics (Series C Investment),ZAR,USD,TRD_0013,01/01/2025,StockIn,Income,99500,83,No
+TPV_PrivateEquity,PGT00014,SweepSouth (Series D Investment),ZAR,USD,TRD_0014,01/01/2025,StockIn,Income,61800,94,No
+TPV_PrivateEquity,PGT00015,Paystack (Series E Investment),GBP,USD,TRD_0015,01/01/2025,StockIn,Income,83400,86,No
+TPV_PrivateEquity,PGT00016,Revolut (Series A Investment),GBP,USD,TRD_0016,01/01/2025,StockIn,Income,63200,90,No
+TPV_PrivateEquity,PGT00017,Monzo (Series B Investment),GBP,USD,TRD_0017,01/01/2025,StockIn,Income,27200,85,No
+TPV_PrivateEquity,PGT00018,Deliveroo (Series C Investment),GBP,USD,TRD_0018,01/01/2025,StockIn,Income,50700,95,No
+TPV_PrivateEquity,PGT00019,OakNorth (Series D Investment),GBP,USD,TRD_0019,01/01/2025,StockIn,Income,46700,92,No
+TPV_IlliquidFixedIncome,DIR00004,GreenEnergy Corp 0.0775% May 2031,EUR,USD,TRD_0001,01/01/2025,StockIn,Income,1400000,112,Yes
+TPV_IlliquidFixedIncome,DIR00013,MediHealth Systems 0.07% March 2031,USD,USD,TRD_0002,01/01/2025,StockIn,Income,820000,100,Yes
+TPV_IlliquidFixedIncome,DIR00012,TechNova Solutions 0.085% July 2029,EUR,USD,TRD_0003,01/01/2025,StockIn,Income,1190000,104,Yes
+TPV_IlliquidFixedIncome,DIR00010,EduSystems International 0.0725% January 2029,USD,USD,TRD_0004,01/01/2025,StockIn,Income,1240000,120,Yes
+TPV_IlliquidFixedIncome,DIR00002,TechNova Solutions 0.0825% March 2028,USD,USD,TRD_0005,01/01/2025,StockIn,Income,980000,94,Yes
+TPV_IlliquidFixedIncome,DIR00015,RetailPlus Group 0.0875% May 2028,USD,USD,TRD_0006,01/01/2025,StockIn,Income,1260000,117,Yes
+TPV_IlliquidFixedIncome,DIR00006,RetailPlus Group 0.085% April 2028,GBP,USD,TRD_0007,01/01/2025,StockIn,Income,1390000,105,Yes
+TPV_IlliquidFixedIncome,DIR00007,FoodFresh Distributors 0.08% September 2029,USD,USD,TRD_0008,01/01/2025,StockIn,Income,1030000,91,Yes
+TPV_IlliquidFixedIncome,LBPF001,CARTER LANE 0.0425% January 2045,GBP,USD,TRD_0009,01/01/2025,StockIn,Income,1400000,112,Yes
+TPV_IlliquidFixedIncome,LBPF005,KINGS CROSS 0.0435% February 2049,GBP,USD,TRD_0010,01/01/2025,StockIn,Income,1400000,112,Yes
+TPV_IlliquidFixedIncome,LBPF003,MAYFAIR PLACE 0.0475% March 2043,GBP,USD,TRD_0011,01/01/2025,StockIn,Income,1400000,112,Yes
+TPV_IlliquidFixedIncome,LBPF010,MOORGATE PLAZA 0.0465% March 2048,GBP,USD,TRD_0012,01/01/2025,StockIn,Income,820000,100,Yes
+TPV_IlliquidFixedIncome,LBPF004,OXFORD STREET 0.04% April 2048,GBP,USD,TRD_0013,01/01/2025,StockIn,Income,1190000,104,Yes
+TPV_IlliquidFixedIncome,LBPF006,BANK STATION 0.049% March 2047,GBP,USD,TRD_0014,01/01/2025,StockIn,Income,1240000,120,Yes
+TPV_IlliquidFixedIncome,LBPF007,LIVERPOOL STREET 0.046% January 2051,GBP,USD,TRD_0015,01/01/2025,StockIn,Income,980000,94,Yes
+TPV_IlliquidFixedIncome,LBPF008,PADDINGTON SQUARE 0.051% April 2046,GBP,USD,TRD_0016,01/01/2025,StockIn,Income,1260000,117,Yes
+TPV_IlliquidFixedIncome,LBPF009,BISHOPSGATE 0.0445% February 2044,GBP,USD,TRD_0017,01/01/2025,StockIn,Income,1390000,105,Yes
+TPV_IlliquidFixedIncome,LBPF002,CANARY WHARF 0.045% February 2050,GBP,USD,TRD_0018,01/01/2025,StockIn,Income,1030000,91,Yes
+TPV_CommercialRealEstate,CRE0016,1 Harbour Street Tower,AUD,USD,TRD_0001,01/01/2025,StockIn,Income,1,473460,No
+TPV_CommercialRealEstate,CRE0011,1 Place de la Defense,EUR,USD,TRD_0002,01/01/2025,StockIn,Income,1,335250,No
+TPV_CommercialRealEstate,CRE0001,100 Bishopsgate Tower,GBP,USD,TRD_0003,01/01/2025,StockIn,Income,1,691090,No
+TPV_CommercialRealEstate,CRE0025,100 Collins Avenue Resort,USD,USD,TRD_0004,01/01/2025,StockIn,Income,1,651750,No
+TPV_CommercialRealEstate,CRE0004,200 Colmore Row Central,GBP,USD,TRD_0005,01/01/2025,StockIn,Income,1,901730,No
+TPV_CommercialRealEstate,CRE0002,25 Canada Square Canary Wharf,GBP,USD,TRD_0006,01/01/2025,StockIn,Income,1,383570,No
+TPV_CommercialRealEstate,CRE0021,383 Madison Avenue Tower,USD,USD,TRD_0007,01/01/2025,StockIn,Income,1,747340,No
+TPV_CommercialRealEstate,CRE0003,50 Market Street Exchange,GBP,USD,TRD_0008,01/01/2025,StockIn,Income,1,901730,No
+TPV_CommercialRealEstate,CRE0024,555 California Street Hub,USD,USD,TRD_0009,01/01/2025,StockIn,Income,1,473460,No
+TPV_CommercialRealEstate,CRE0005,80 Buchanan Street Mall,GBP,USD,TRD_0010,01/01/2025,StockIn,Income,1,335250,No
+TPV_CommercialRealEstate,CRE0020,Adelaide Retail Complex,AUD,USD,TRD_0011,01/01/2025,StockIn,Income,1,691090,No
+TPV_CommercialRealEstate,CRE0015,Amsterdam Canal Office,EUR,USD,TRD_0012,01/01/2025,StockIn,Income,1,651750,No
+TPV_CommercialRealEstate,CRE0018,Brisbane Business Hub,AUD,USD,TRD_0013,01/01/2025,StockIn,Income,1,901730,No
+TPV_CommercialRealEstate,CRE0008,Bristol Retail Park,GBP,USD,TRD_0014,01/01/2025,StockIn,Income,1,383570,No
+TPV_CommercialRealEstate,CRE0010,Cardiff Bay,GBP,USD,TRD_0015,01/01/2025,StockIn,Income,1,747340,No
+TPV_CommercialRealEstate,CRE0022,Chicago Loop Complex,USD,USD,TRD_0016,01/01/2025,StockIn,Income,1,901730,No
+TPV_CommercialRealEstate,CRE0007,Edinburgh Plaza,GBP,USD,TRD_0017,01/01/2025,StockIn,Income,1,383570,No
+TPV_CommercialRealEstate,CRE0012,Frankfurt Business Center,EUR,USD,TRD_0018,01/01/2025,StockIn,Income,1,747340,No
+TPV_CommercialRealEstate,CRE0023,LA Entertainment Center,USD,USD,TRD_0019,01/01/2025,StockIn,Income,1,383570,No
+TPV_CommercialRealEstate,CRE0006,Leeds Business Park,GBP,USD,TRD_0020,01/01/2025,StockIn,Income,1,747340,No
+TPV_FixedIncomeHedging,FUT00001,FUT00001,EUR,USD,TRD_0001,01/01/2025,OpenContract,Income,1,101,Yes
+TPV_InfrastructureEquities,EQT00046,Delta Air Lines Inc.,USD,USD,TRD_0001,01/01/2025,Buy,Income,10600,79,No
+TPV_InfrastructureEquities,EQT00047,American Airlines Group Inc.,USD,USD,TRD_0002,01/01/2025,Buy,Income,55500,98,No
+TPV_InfrastructureEquities,EQT00048,Southwest Airlines Co.,USD,USD,TRD_0003,01/01/2025,Buy,Income,71900,117,No
+TPV_InfrastructureEquities,EQT00049,United Airlines Holdings Inc.,USD,USD,TRD_0004,01/01/2025,Buy,Income,45200,68,No
+TPV_InfrastructureEquities,EQT00050,Lufthansa AG,EUR,USD,TRD_0005,01/01/2025,Buy,Income,59600,52,No
+TPV_InfrastructureEquities,EQT00051,Air France-KLM SA,EUR,USD,TRD_0006,01/01/2025,Buy,Income,79400,175,No
+TPV_InfrastructureEquities,EQT00052,International Airlines Group SA,GBP,USD,TRD_0007,01/01/2025,Buy,Income,10600,79,No
+TPV_InfrastructureEquities,EQT00053,Ryanair Holdings plc,EUR,USD,TRD_0008,01/01/2025,Buy,Income,55500,98,No
+TPV_InfrastructureEquities,EQT00054,A.P. Moller - Maersk A/S,DKK,USD,TRD_0009,01/01/2025,Buy,Income,71900,117,No
+TPV_InfrastructureEquities,EQT00055,Hapag-Lloyd AG,EUR,USD,TRD_0010,01/01/2025,Buy,Income,45200,68,No
+TPV_InfrastructureEquities,EQT00056,Evergreen Marine Corp.,TWD,USD,TRD_0011,01/01/2025,Buy,Income,59600,52,No
+TPV_InfrastructureEquities,EQT00057,Orient Overseas Intl Ltd.,HKD,USD,TRD_0012,01/01/2025,Buy,Income,79400,175,No
+TPV_InfrastructureEquities,EQT00058,Cosco Shipping Holdings Co Ltd.,CNY,USD,TRD_0013,01/01/2025,Buy,Income,54600,135,No
+TPV_InfrastructureEquities,EQT00059,Frontline Ltd.,USD,USD,TRD_0014,01/01/2025,Buy,Income,98600,180,No
+TPV_InfrastructureEquities,EQT00060,Verizon Communications Inc.,USD,USD,TRD_0015,01/01/2025,Buy,Income,64800,92,No
+TPV_InfrastructureEquities,EQT00061,AT&T Inc.,USD,USD,TRD_0016,01/01/2025,Buy,Income,93100,157,No
+TPV_InfrastructureEquities,EQT00062,T-Mobile US Inc.,USD,USD,TRD_0017,01/01/2025,Buy,Income,14700,150,No
+TPV_InfrastructureEquities,EQT00063,China Mobile Ltd.,HKD,USD,TRD_0018,01/01/2025,Buy,Income,20000,119,No
+TPV_InfrastructureEquities,EQT00064,Vodafone Group Plc,GBP,USD,TRD_0019,01/01/2025,Buy,Income,33600,92,No
+TPV_InfrastructureEquities,EQT00065,Orange SA,EUR,USD,TRD_0020,01/01/2025,Buy,Income,26000,196,No
+TPV_InfrastructureEquities,EQT00066,Deutsche Telekom AG,EUR,USD,TRD_0021,01/01/2025,Buy,Income,26000,196,No
+TPV_InfrastructureEquities,EQT00067,Telefonica SA,EUR,USD,TRD_0022,01/01/2025,Buy,Income,43100,193,No
+TPV_InfrastructureEquities,EQT00053,Ryanair Holdings plc,EUR,USD,TRD_0023,01/01/2025,Sell,Income,5000,201,No
+TPV_InfrastructureEquities,EQT00053,Ryanair Holdings plc,EUR,USD,TRD_0024,01/01/2025,Sell,Income,5000,202,No
+TPV_InfrastructureEquities,EQT00053,Ryanair Holdings plc,EUR,USD,TRD_0025,01/01/2025,Sell,Income,5000,210,No

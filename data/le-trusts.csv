@@ -1,0 +1,4 @@
+TrustId,TrustName,TrustType,TrustCountry,DateOfEstablishment,TrusteeDetails,BeneficiaryList,GrantorName,TrustPurpose,TrustRegistrationNumber,TrustDomicile,InvestmentMandateType,RegulatoryStatus,TaxResidency,TrustValuation
+TRUST001,Johnson Family Trust 1954,Discretionary,UK,2010-05-15,"Robert Johnson; Elizabeth Johnson","James Johnson; Emily Johnson",Robert Johnson,Wealth preservation,UKTR001,UK,Multi-Asset,Compliant,UK,5000000
+TRUST002,Williams Legacy Trust 2015,Revocable,USA,2015-09-01,"Sarah Williams; Michael Williams","Sarah Williams; Michael Williams",Sarah Williams,Education funding,USATR002,USA,Equities,Compliant,USA,2500000
+TRUST003,Anderson Heritage Trust 2008,Irrevocable,UK,2008-03-20,"David Anderson; Anna Anderson","James Anderson; Emily Anderson",David Anderson,Generational transfer,UKTR003,UK,Fixed Income,Compliant,UK,4000000
