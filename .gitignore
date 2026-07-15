@@ -14,3 +14,11 @@ run_pack.py
 convert_auth.py
 show_outputs.py
 executed/
+
+# --- standardised excludes ---
+secrets.*.json
+secrets.json.example
+.env
+*.log
+*_executed.ipynb
+*_output.ipynb
